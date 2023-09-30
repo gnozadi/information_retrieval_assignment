@@ -40,6 +40,10 @@ This repository contains several assignments focused on Information Retrieval te
 2. Navigate to the relevant assignment folder.
 3. Follow the instructions in each assignment's README for execution.
 
+## Contributer
+
+- Bita Karvizi ([GitHub](https://github.com/bitua79))
+
 ## Notes
 
 - Ensure all required libraries are installed using pip before running the assignments.
